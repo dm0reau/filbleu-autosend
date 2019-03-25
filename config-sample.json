@@ -1,0 +1,13 @@
+{
+  "username": "<your Fil Bleu service email>",
+  "password": "<your Fil Bleu service password>",
+  "my_name": "<your name>",
+  "receiver_name": "<document's receiver name>",
+  "smtp_host": "smtp.gmail.com",
+  "smtp_port": "465",
+  "smtp_ssl": true,
+  "smtp_user": "<your SMTP username>",
+  "smtp_password": "<your SMTP password>",
+  "smtp_email_from": "<your email>",
+  "smtp_email_to": "<document must be sent to>"
+}
